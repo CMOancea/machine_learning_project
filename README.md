@@ -35,6 +35,7 @@ Conclusiones clave
 - El modelo de árbol de decisión rápido alcanzó un equilibrio óptimo entre velocidad de ejecución y precisión predictiva.
 
 ** Estructura del Repositorio **
-main.ipynb: Notebook principal con el análisis exploratorio (EDA), limpieza y modelado.
-scripts/: Funciones modulares para el procesamiento de datos.
-README.md: Descripción general del proyecto.
+
+- main.ipynb: Notebook principal con el análisis exploratorio (EDA), limpieza y modelado.
+- scripts/: Funciones modulares para el procesamiento de datos.
+- README.md: Descripción general del proyecto.
