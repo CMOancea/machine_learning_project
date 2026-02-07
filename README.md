@@ -1,4 +1,4 @@
-# Spotify Track Popularity & Genre Analysis #
+# Spotify track popularity & genre analysis #
 Este proyecto aplica técnicas de Machine Learning para analizar y predecir características de pistas musicales utilizando el ecosistema de datos de Spotify. El objetivo es explorar cómo las métricas de audio (danceability, energy, loudness, etc.) influyen en la clasificación y el éxito de las canciones.
 
 # Datos utilizados
