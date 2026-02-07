@@ -30,7 +30,7 @@ Evaluación:
 - Validación cruzada (cross_val_score) para asegurar la estabilidad del modelo.
 - Métricas de rendimiento: Error Absoluto Medio (MAE) y R² Score.
 
-Conclusiones clave
+# Conclusiones clave
 - Se logró reducir significativamente el tiempo de entrenamiento del modelo mediante el muestreo estratégico de datos y la optimización de hiperparámetros (como max_features='sqrt').
 - El modelo de árbol de decisión rápido alcanzó un equilibrio óptimo entre velocidad de ejecución y precisión predictiva.
 
